@@ -1,0 +1,25 @@
+{
+  "name": "twitate",
+  "version": "0.0.1",
+  "description": "Tweet to vertical writing.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/k2wanko/twetate.git"
+  },
+  "keywords": [
+    "twitter"
+  ],
+  "author": "Kazuhiro Kubota <k2.wanko@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/k2wanko/twitate/issues"
+  },
+  "homepage": "https://github.com/k2wanko/twitate#readme",
+  "devDependencies": {
+    "jest": "^21.2.1"
+  }
+}
